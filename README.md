@@ -1,7 +1,7 @@
 # dungeon
 A very simple randomly generated game in which a group of knights scale a tower. Walk using the arrow keys, while space is the action key.
 
-You fight by assessing enemies' weapons and walking towards them. Weapons work like rock-paper-scissors, swords beat axes, axes beat spears and spears beat swords. 
+The aim of the game is to navigate the tower's five floors, defeat the dragon at the top and claim the crown to the kingdom. You fight by assessing enemies' weapons and walking towards them. Weapons work like rock-paper-scissors, swords beat axes, axes beat spears and spears beat swords. 
 Taking enough damage charges a special attack which beats all attacks, like the controversial rule "fire beats everything" in rock-paper-scissors!
 
 There are chests with better weapons and helpful items inside too. The shield makes you take less damage, the dagger makes you deal more, 

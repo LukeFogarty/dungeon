@@ -12,5 +12,6 @@ but I wanted to get used to making stuff so added AWT and Swing elements.
 The code is probably clunky, but I like how it works for a first attempt!
 
 Run the game using the console in the folder where it is stored to make sure that it loads the sprites correctly.
+You can also just download and run the .jar, and it should run fine too.
 
 Have fun!
